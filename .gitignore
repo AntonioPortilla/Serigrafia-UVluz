@@ -1,4 +1,29 @@
-/bootstrap/compiled.php
-.env.*.php
-.env.php
-.env
+# Proyecto:
+//////////
+.htaccess
+robots.txt
+prueba.php
+uv-defines.php
+backup*.zip
+node_modules/
+bower_components/
+vendor/
+class/
+dev/
+prod/
+############################
+############################
+# Windows:
+/////////
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+############################
+############################
+# Sublime Text:
+//////////////
+/*.sublime-project
+*.sublime-workspace
+
+
