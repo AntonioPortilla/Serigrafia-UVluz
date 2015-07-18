@@ -3,7 +3,12 @@
     <div id="histCarousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/<?php echo $lang['hist'] ?>.jpg" alt="historia">
+          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/principal.jpg" alt="logo UVluz">
+          <div class="container">
+            <div class="carousel-caption">
+              <span class="descripcion">El valor de una idea radica <br>en el uso de la misma</span>
+            </div>
+          </div>
         </div>        
       </div>
      </div>      

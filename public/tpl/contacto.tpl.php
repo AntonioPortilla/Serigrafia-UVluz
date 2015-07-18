@@ -3,8 +3,13 @@
     <div id="contCarousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/<?php echo $lang['cont'] ?>.jpg" alt="contactenos">          
-        </div>       
+          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/principal.jpg" alt="logo UVluz">
+          <div class="container">
+            <div class="carousel-caption">
+              <span class="descripcion">El valor de una idea radica <br>en el uso de la misma</span>
+            </div>
+          </div>
+        </div>
        </div>
     </div>      
   </div>
@@ -14,19 +19,10 @@
     <div class="col-lg-12">
       <ul class="breadcrumb">
         <li>
-          <a href="/"><?php echo $lang['inicio']; ?></a> <span class="divider"></span>
+          <a href="/">Inicio</a> <span class="divider"></span>
         </li>
-        <li class="active"><?php echo $lang['contacto']; ?></li>
+        <li class="active">Contacto</li>
       </ul>
-      <fieldset>
-        <legend> <span><?php echo $lang['contactenos']; ?></span> </legend>
-      </fieldset>
-      <p>
-        <?php echo $lang['solicita']; ?> : <span class="bg-info"><?php echo $lang['sales']; ?>@amazonianherbs.com </span>.
-      </p>
-      <p>
-        <span class="text-danger"> <?php echo $lang['requerido']; ?>  </span>
-      </p>
     </div>
   </div>
   <div class="row contacto">
@@ -76,9 +72,6 @@
           </div>
         </div>
       </form>
-      <p>
-       <?php echo $lang['post_venta']; ?>: <span class="bg-success"><?php echo $lang['cliente']; ?>@amazonianherbs.com </span>
-      </p>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 contact_b2">
       <img src="<?php echo IMAGE_PATH; ?>/contacto.png" alt="contacto">

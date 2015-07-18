@@ -5,6 +5,7 @@ robots.txt
 prueba.php
 uv-defines.php
 backup*.zip
+*.log
 node_modules/
 bower_components/
 vendor/
