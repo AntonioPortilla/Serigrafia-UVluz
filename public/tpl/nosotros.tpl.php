@@ -1,4 +1,4 @@
-<div class="container bg-arp">
+<div class="container">
   <div class="row">
     <div id="histCarousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner" role="listbox">
@@ -15,56 +15,52 @@
   </div>
 </div>
 <div class="container nosotros">
-  <div class="row title">
-    <div class="col-lg-12">
-      <ul class="breadcrumb">
-        <li>
-          <a href="/"><?php echo $lang['inicio']; ?></a> <span class="divider"></span>
-        </li>
-        <li class="active"><?php echo $lang['nosotros']; ?></li>
-      </ul>
-      <fieldset>
-        <legend> <span><?php echo $lang['nosotros']; ?></span> </legend>
-      </fieldset>      
-    </div>
-  </div>
-  <div class="row historia">
-    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-      <h3><?php echo $lang['historia']; ?></h3>      
+  <div class="row">
+    <div class="col-lg-12"> 
+      <h1 class="red">SERVICIOS</h1><br>
       <p>
-        <?php echo $lang['historia_desc']; ?>
+        Presentamos la lista de nuestros productos.
       </p>
-
-        <h3><?php echo $lang['mision']; ?></h3>
-
-      <p>  
-        <?php echo $lang['mision_desc']; ?>.
-      </p>
-      <h3><?php echo $lang['vision']; ?></h3>
-
-      <p>  
-        <?php echo $lang['vision_desc']; ?>.
-      </p> 
+      <div class="impresiones"> Impresiones de serigrafías con tintas UV (Ultravioleta)</div>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-      <img src="<?php echo IMAGE_PATH; ?>/nosotros.jpg" alt="nosotros">
-    </div>   
   </div> 
-  <div class="row comunidades">
+  <div class="row historia">
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-      <h3><?php echo $lang['plantas']; ?></h3>
-      <p>
-        <?php echo $lang['plantas_desc']; ?>.
-      <p><br><br>
-      <img src="<?php echo IMAGE_PATH; ?>/plantas.jpg" alt="Plantas">
+      <div class="col-md-6">
+        <ul class="serv">
+          <li>Artículos para Merchandising</li>
+          <li>Exhibidores</li>
+          <li>Jala vistas</li>
+          <li>Stickers</li>
+          <li>Calendarios</li>
+          <li>Escarchados</li>
+          <li>Pines</li>
+          <li>Indivisuales barnizados UV (sectorizado)</li>
+          <li>Calendarios</li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <ul class="serv">
+          <li>Tallimetros</li>
+          <li>Tarjetas Personales</li>
+          <li>Llaveros Publicitarios</li>
+          <li>Aromatizador</li>
+          <li>Colgantes</li>
+          <li>Afiches</li>
+          <li>Etiquetas</li>
+          <li>Flanges</li>
+          <li>Banners</li>
+        </ul>
+      </div>
+      <div class="col-md-12">
+        <br><br>
+        <a class="btn btn-default btn-rojo" href="#" role="button">Ver Productos</a>
+        <br><br>      
+      </div>
     </div>
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-      <h3><?php echo $lang['comunidades']; ?></h3>
-      <p>
-        <?php echo $lang['comunidades_desc']; ?>.
-      </p><br>
-      <img src="<?php echo IMAGE_PATH; ?>/comunidades-nativas.jpg" alt="Comunidades Nativas">
-    </div>
-  </div>   
+      <img src="<?php echo IMAGE_PATH; ?>/servicios.jpg" alt="servicios" width="95%">
+    </div>   
+  </div>     
 </div>
 

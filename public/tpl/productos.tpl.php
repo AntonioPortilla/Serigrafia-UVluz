@@ -14,22 +14,18 @@
     </div>      
   </div>
 </div>
-<div class="container">
-  <div class="row title">
-    <div class="col-lg-12">
-      <ul class="breadcrumb">
-        <li>
-          <a href="/">Inicio</a> <span class="divider"></span>
-        </li>
-        <li class="active">Trabajos</li>
-      </ul>
+<div class="container nosotros"> 
+  <div class="row">
+    <div class="col-lg-12"> 
+      <h1 class="red">TRABAJOS</h1><br>
+      <p>
+        Mostramos parte de nuestros trabajos, mas información puede visualizar en el Fanpage de la empresa.
+      </p>
+      <div class="impresiones">Impresiones de serigrafías con tintas UV (Ultravioleta)</div>
     </div>
   </div>
   <div class="row">
-    <div class="col-lg-12">
-      descripcion
-      <br>
-    </div>
+    <a href="#" class="btn btn-rojo btn-fan">VISITAR FANPAGE</a>
   </div>
 </div>
 

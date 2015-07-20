@@ -1,4 +1,4 @@
-<div class="container bg-arp">
+<div class="container">
   <div class="row">
     <div id="contCarousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner" role="listbox">
@@ -15,74 +15,42 @@
   </div>
 </div>
 <div class="container nosotros">
-  <div class="row title">
-    <div class="col-lg-12">
-      <ul class="breadcrumb">
-        <li>
-          <a href="/">Inicio</a> <span class="divider"></span>
-        </li>
-        <li class="active">Contacto</li>
-      </ul>
+  <div class="row">
+    <div class="col-lg-12"> 
+      <h1 class="red">CONTACTO</h1><br>
+      <p>
+        Muchas gracias por ponerte en contacto con Serigrafía UVLUZ
+      </p>
     </div>
-  </div>
+  </div>  
   <div class="row contacto">
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-7">            
-      <form class="form-horizontal" id="formContact">
+      <form id="formContact">
         <div class="form-group form-group-sm">
-          <label class="col-sm-3 control-label" for="nombres"><?php echo $lang['nombres']; ?> (*)</label>
-          <div class="col-sm-9">
-            <input class="form-control" type="text" id="nombres" name="nombres" required>
-          </div>
+          <label for="nombres">NOMBRES Y APELLIDOS</label>
+          <input class="form-control" type="text" id="nombres" name="nombres">
         </div>
         <div class="form-group form-group-sm">
-          <label class="col-sm-3 control-label" for="empresa"><?php echo $lang['empresa']; ?> </label>
-          <div class="col-sm-9">
-            <input class="form-control" type="text" id="empresa" name="empresa">
-          </div>
-        </div>      
+          <label for="correo">CORREO (*)</label>
+          <input type="email" class="form-control" id="correo" name="correo" required>
+        </div>            
         <div class="form-group form-group-sm">
-          <label class="col-sm-3 control-label" for="correo"><?php echo $lang['correo']; ?> (*)</label>
-          <div class="col-sm-9">
-            <div class="input-group">
-              <span class="input-group-addon">@</span>
-              <input type="email" class="form-control" id="correo" name="correo" required>
-            </div>
-          </div>
+          <label for="telf">TELÉFONO</label>
+          <input type="tel" class="form-control" id="telf" name="telefono" minlength="7">
         </div>    
         <div class="form-group form-group-sm">
-          <label class="col-sm-3 control-label" for="telf"><?php echo $lang['telf']; ?></label>
-          <div class="col-sm-9">
-            <div class="input-group">
-            <span class="input-group-addon"><span class="glyphicon glyphicon-earphone"></span></span>              
-              <input type="tel" class="form-control" id="telf" name="telefono" minlength="7">
-            </div>
-          </div>
+          <label for="comentario">COMENTARIO</label>
+          <textarea class="form-control" rows="6" id="comentario" name="comentario" required></textarea>
         </div>
-        <div class="form-group form-group-sm">
-          <label class="col-sm-3 control-label" for="comentario"><?php echo $lang['comentario']; ?> (*)</label>
-          <div class="col-sm-9">
-            <textarea class="form-control" rows="3" id="comentario" name="comentario" required></textarea>
-          </div>
-        </div>
-        <div class="form-group">
-          <div class="col-sm-offset-3 col-sm-9">
-            <button type="submit" class="btn btn-default btn-green" aria-label="Left Align">
-              <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> <?php echo $lang['enviar']; ?>
-            </button>
-          </div>
-        </div>
+        <button type="submit" class="btn btn-default btn-green center" aria-label="Left Align">
+          ENVIAR
+        </button>
       </form>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5 contact_b2">
-      <img src="<?php echo IMAGE_PATH; ?>/contacto.png" alt="contacto">
-      <p class="p1">
-        <?php echo $lang['contact_p1']; ?>
-      </p>
-      <p style="margin-top:5px;">
-        <?php echo $lang['contact_p2']; ?>        
-      </p>
-    </div>
-  </div>    
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-5">
+      <img src="<?php echo IMAGE_PATH; ?>/contacto.jpg" alt="contacto" width="95%" class="center">      
+    </div>    
+  </div>
 </div>
 
 

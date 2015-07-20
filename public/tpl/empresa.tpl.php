@@ -14,43 +14,40 @@
     </div>      
   </div>
 </div>
-<div class="container nosotros">
-  <div class="row title">
-    <div class="col-lg-12">
-      <ul class="breadcrumb">
-        <li>
-          <a href="/"><?php echo $lang['inicio']; ?></a> <span class="divider"></span>
-        </li>
-        <li class="active"><?php echo $lang['nuestra_empresa']; ?></li>
-      </ul>
-      <fieldset>
-        <legend> <span><?php echo $lang['nuestra_empresa']; ?></span> </legend>
-      </fieldset>      
-    </div>
-  </div>
-  <div class="row empresa">
-    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">            
-      <p>
-        <?php echo $lang['empresa_p1']; ?>
-      </p>
+<div class="container nosotros">  
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">            
+      <h1 class="red">LA EMPRESA</h1><br>
       <p>  
-        <?php echo $lang['empresa_p2']; ?>
+        Somos una empresa de artículos publicitarios, con la finalidad de apoyar al crecimiento y fortalecimiento de 
+        las empresas, cumpliendo los requerimientos establecidos para lograr un posicionamiento en su consumidor 
+        y/o cliente, tomando en cuenta los conceptos fundamentales del Marketing.
+      </p>
+      <p>
+        Marcando la  diferencia en el mercado debido  que nuestra razón es ser un aliado estratégico para el 
+        posicionamiento de su empresa sin dejar de lado la calidad como principal activo.
       </p>      
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-      <img src="<?php echo IMAGE_PATH; ?>/nuestra-empresa.jpg" alt="Nuestra Empresa">
-    </div> 
-
-  </div> 
-  <div class="row comunidades">
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-      <h3><?php echo $lang['certificaciones']; ?></h3>
-      <p></p>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+      <img src="<?php echo IMAGE_PATH; ?>/empresa.jpg" alt="Nuestra Empresa" width="95%" class="center">
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-      <h3><?php echo $lang['procesos']; ?></h3>
-      <p></p>
+  </div>
+  <div class="row" style="margin-top:45px">
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-5">
+      <img src="<?php echo IMAGE_PATH; ?>/mision.jpg" alt="Nuestra Empresa" width="95%" class="center">
     </div>
-  </div>   
+    <div class="col-xs-12 col-sm-12 col-md-8 col-lg-7">            
+      <h2>Misión</h2><br>
+      <p>  
+        Posicionar las marcas de nuestros clientes hacia sus prospectos con el objetivo de convertirnos en 
+        fieles clientes mediante un estrategia de comunicación y visualización.
+      </p>
+      <h2>Visión</h2>
+      <p>
+        Convertirnos en la más grande empresa de merchandising, reconocidos totalmente por nuestra 
+        calidad y buen servicios hacia nuestros clientes.
+      </p>      
+    </div>
+  </div>     
 </div>
 

@@ -65,17 +65,17 @@
                   <div class="social-media">
                     <ul>
                       <li>
-                        <a href="http://lifewithnature1.blogspot.com" target="_blank">                          
+                        <a href="#" target="_blank">                          
                           <img src="<?php echo IMAGE_PATH; ?>/youtube.png" alt="Blog">
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.facebook.com/amazonrainforestproducts" target="_blank">                          
+                        <a href="#" target="_blank">                          
                           <img src="<?php echo IMAGE_PATH; ?>/facebook.png" alt="Facebook">
                         </a>
                       </li>
                       <li>
-                        <a href="https://twitter.com/AmazonianProd" target="_blank">                          
+                        <a href="#" target="_blank">                          
                           <img src="<?php echo IMAGE_PATH; ?>/twitter.png" alt="Twitter">
                         </a>
                       </li>    
