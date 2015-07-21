@@ -9,7 +9,6 @@
   <link rel="icon" href="<?php echo APP_DOMAIN ?>/favicon.ico">
   <title>Serigrafía UVluz</title>
   <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">-->
-  <link rel="stylesheet" href="<?php echo APP_DOMAIN ?>/dev/css/bootstrap.min.css">
   <link rel="stylesheet" href="<?php echo CSS_PATH; ?>/styles.min.css">
 </head>
 <body>

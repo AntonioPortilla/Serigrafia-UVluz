@@ -13,11 +13,22 @@ module.exports = function(grunt) {
             stripBanners: true
         },
         styles: {
-            src: ['dev/css/bootstrap.min.css', 'dev/css/carousel.css', 'dev/css/social-media.css', 'dev/css/style.css'],
+            src: [
+                  'dev/css/bootstrap.min.css', 
+                  'dev/css/carousel.css', 
+                  'dev/css/social-media.css', 
+                  'dev/css/least.min.css', 
+                  'dev/css/style.css'
+                  ],
             dest: 'prod/css/styles.css'
         },
         scripts: {
-            src: ['dev/js/jquery-1.11.2.min.js', 'dev/js/bootstrap.min.js', 'dev/js/script.js'],
+            src: [
+                  'dev/js/jquery-1.11.2.min.js', 
+                  'dev/js/bootstrap.min.js', 
+                  'dev/js/least.min.js', 
+                  'dev/js/script.js'
+                  ],
             dest: 'prod/js/scripts.js'
         }
     },

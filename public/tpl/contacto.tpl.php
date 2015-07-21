@@ -42,7 +42,7 @@
           <label for="comentario">COMENTARIO</label>
           <textarea class="form-control" rows="6" id="comentario" name="comentario" required></textarea>
         </div>
-        <button type="submit" class="btn btn-default btn-green center" aria-label="Left Align">
+        <button type="submit" class="btn btn-default btn-blue center" aria-label="Left Align">
           ENVIAR
         </button>
       </form>
