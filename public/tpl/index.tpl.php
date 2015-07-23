@@ -24,7 +24,7 @@
         para lograr un posicionamiento en su consumidor y/o cliente, tomando en cuenta los conceptos 
         fundamentales del Marketing.
       </p>
-      <a href="#" class="btn btn-primary btn-more">Ver más</a>
+      <a href="<?php echo APP_DOMAIN; ?>/empresa/" class="btn btn-primary btn-more">Ver más</a>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       <img src="<?php echo IMAGE_PATH; ?>/nosotros.jpg" alt="">
@@ -42,7 +42,7 @@
           <li>Stickers</li>
           <li>Baris</li>
         </ul>     
-      <a href="#" class="btn btn-primary btn-more">Ver más</a>
+      <a href="<?php echo APP_DOMAIN; ?>/servicios/" class="btn btn-primary btn-more">Ver más</a>
     </div>
   </div>
   <div class="row" style="margin:40px 0px">

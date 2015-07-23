@@ -16,9 +16,9 @@
     <div class="row cuadro">
       <div class="container">
         <div class="row">
-          <header>            
+          <header>
             <div class="navbar-wrapper">
-              <div class="container">
+              <div class="container">              
                 <nav class="navbar navbar-inverse navbar-static-top">
                   <div class="container">
                     <div class="navbar-header">
@@ -37,7 +37,7 @@
                       </span>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse">
-                      <ul class="nav navbar-nav navbar-right">
+                      <ul class="nav navbar-nav navbar-right fancyNav">
                         <li>
                           <a href="<?php echo APP_DOMAIN ?>/empresa/">La Empresa</a>
                         </li>
@@ -47,9 +47,9 @@
                         <li>                          
                           <a href="<?php echo APP_DOMAIN ?>/trabajos/">Trabajos</a>
                         </li>
-                        <li>                          
+                        <li style="border-right:initial">
                           <a href="<?php echo APP_DOMAIN ?>/contacto/">Contacto</a>
-                        </li>                     
+                        </li>
                       </ul>
                     </div>
                   </div>
@@ -65,7 +65,7 @@
                     <ul>
                       <li>
                         <a href="#" target="_blank">                          
-                          <img src="<?php echo IMAGE_PATH; ?>/youtube.png" alt="Blog">
+                          <img src="<?php echo IMAGE_PATH; ?>/youtube.png" alt="Blog">                         
                         </a>
                       </li>
                       <li>

@@ -18,6 +18,8 @@ module.exports = function(grunt) {
                   'dev/css/carousel.css', 
                   'dev/css/social-media.css', 
                   'dev/css/least.min.css', 
+                  'dev/css/navigation.css', 
+                  'dev/css/component.css',
                   'dev/css/style.css'
                   ],
             dest: 'prod/css/styles.css'
@@ -27,6 +29,7 @@ module.exports = function(grunt) {
                   'dev/js/jquery-1.11.2.min.js', 
                   'dev/js/bootstrap.min.js', 
                   'dev/js/least.min.js', 
+                  'dev/js/modernizr.custom.js', 
                   'dev/js/script.js'
                   ],
             dest: 'prod/js/scripts.js'

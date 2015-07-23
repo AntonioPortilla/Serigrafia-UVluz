@@ -54,7 +54,7 @@
       </div>
       <div class="col-md-12">
         <br><br>
-        <a class="btn btn-default btn-rojo" href="#" role="button">Ver Productos</a>
+        <a class="btn btn-default btn-rojo" href="<?php echo APP_DOMAIN; ?>/trabajos/" role="button">Ver Productos</a>
         <br><br>      
       </div>
     </div>

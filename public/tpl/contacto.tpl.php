@@ -40,7 +40,7 @@
         </div>    
         <div class="form-group form-group-sm">
           <label for="comentario">COMENTARIO</label>
-          <textarea class="form-control" rows="6" id="comentario" name="comentario" required></textarea>
+          <textarea class="form-control" rows="6" id="comentario" name="comentario"></textarea>
         </div>
         <button type="submit" class="btn btn-default btn-blue center" aria-label="Left Align">
           ENVIAR
