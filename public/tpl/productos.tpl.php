@@ -31,42 +31,42 @@
   <div class="row" style="margin-top:25px;">
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">    
         <li>
-            <a href="<?php echo IMAGE_PATH; ?>/trabajos/1-big.jpg" title="serigrafía" data-caption="<strong>Cuando el munndo me dice ríndete</strong> Mi billetera dice: un intento más!">
+            <a href="<?php echo IMAGE_PATH; ?>/trabajos/1-big.jpg" title="serigrafía" data-caption="">
                 <img src="<?php echo IMAGE_PATH; ?>/trabajos/1.jpg" alt="serigrafía" width="95%" />
             </a>
         </li>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">            
         <li>
-            <a href="<?php echo IMAGE_PATH; ?>/trabajos/2-big.jpg" title="telefonica" data-caption="<strong>Tarjeta 147</strong> llame aquí">
+            <a href="<?php echo IMAGE_PATH; ?>/trabajos/2-big.jpg" title="telefonica" data-caption="">
                 <img src="<?php echo IMAGE_PATH; ?>/trabajos/telefonica.jpg" alt="telefonica" width="95%" />
             </a>
         </li>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">
       <li>
-          <a href="<?php echo IMAGE_PATH; ?>/trabajos/3-big.jpg" title="huggies" data-caption="<strong>Huggies</strong> Active Sec">
+          <a href="<?php echo IMAGE_PATH; ?>/trabajos/3-big.jpg" title="huggies" data-caption="">
               <img src="<?php echo IMAGE_PATH; ?>/trabajos/huggies.jpg" alt="huggies" width="95%" />
           </a>
       </li>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">
       <li>
-          <a href="<?php echo IMAGE_PATH; ?>/trabajos/4-big.jpg" title="tocayo" data-caption="<strong>Tocayo</strong> Espárrago verde fresco">
+          <a href="<?php echo IMAGE_PATH; ?>/trabajos/4-big.jpg" title="tocayo" data-caption="">
               <img src="<?php echo IMAGE_PATH; ?>/trabajos/tocayo.jpg" alt="tocayo" width="95%" />
           </a>
       </li>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">
       <li>
-          <a href="<?php echo IMAGE_PATH; ?>/trabajos/5-big.jpg" title="campañas" data-caption="<strong>Campañas</strong> Campañas Médicas">
+          <a href="<?php echo IMAGE_PATH; ?>/trabajos/5-big.jpg" title="campañas" data-caption="">
               <img src="<?php echo IMAGE_PATH; ?>/trabajos/campanas.jpg" alt="campanas" width="95%" />
           </a>
       </li>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">
       <li>
-          <a href="<?php echo IMAGE_PATH; ?>/trabajos/6-big.jpg" title="papito" data-caption="<strong>Papito</strong> Quién es tu papito?">
+          <a href="<?php echo IMAGE_PATH; ?>/trabajos/6-big.jpg" title="papito" data-caption="">
               <img src="<?php echo IMAGE_PATH; ?>/trabajos/papito.jpg" alt="papito" width="95%" />
           </a>
       </li>
@@ -75,42 +75,42 @@
   <div class="row" style="margin-top:25px;">
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">
       <li>
-          <a href="<?php echo IMAGE_PATH; ?>/trabajos/7-big.jpg" title="Soda" data-caption="<strong>Soda</strong> 12 galletas a S/. 0.50">
+          <a href="<?php echo IMAGE_PATH; ?>/trabajos/7-big.jpg" title="Soda" data-caption="">
               <img src="<?php echo IMAGE_PATH; ?>/trabajos/soda.jpg" alt="soda" width="95%" />
           </a>
       </li>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">
       <li>
-          <a href="<?php echo IMAGE_PATH; ?>/trabajos/8-big.jpg" title="Club99" data-caption="<strong>Club 99</strong> 99.3 FM Primera que todas">
+          <a href="<?php echo IMAGE_PATH; ?>/trabajos/8-big.jpg" title="Club99" data-caption="">
               <img src="<?php echo IMAGE_PATH; ?>/trabajos/club99.jpg" alt="club99" width="95%" />
           </a>
       </li>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">
       <li>
-          <a href="<?php echo IMAGE_PATH; ?>/trabajos/9-big.jpg" title="Lan" data-caption="<strong>Lan</strong> Aerolínea">
+          <a href="<?php echo IMAGE_PATH; ?>/trabajos/9-big.jpg" title="Lan" data-caption="">
               <img src="<?php echo IMAGE_PATH; ?>/trabajos/lan.jpg" alt="Lan" width="95%" />
           </a>
       </li>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">
       <li>
-          <a href="<?php echo IMAGE_PATH; ?>/trabajos/10-big.jpg" title="Arreglo" data-caption="<strong>Arreglos</strong> ">
+          <a href="<?php echo IMAGE_PATH; ?>/trabajos/10-big.jpg" title="Arreglo" data-caption="">
               <img src="<?php echo IMAGE_PATH; ?>/trabajos/arreglo.jpg" alt="Arreglo" width="95%" />
           </a>
       </li>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">
       <li>
-          <a href="<?php echo IMAGE_PATH; ?>/trabajos/11-big.jpg" title="Calendario" data-caption="<strong>Calendarios</strong> ">
+          <a href="<?php echo IMAGE_PATH; ?>/trabajos/11-big.jpg" title="Calendario" data-caption="">
               <img src="<?php echo IMAGE_PATH; ?>/trabajos/calendario.jpg" alt="calendario" width="95%" />
           </a>
       </li>
     </div>
     <div class="col-xs-12 col-sm-4 col-md-2 col-lg-2">
       <li>
-          <a href="<?php echo IMAGE_PATH; ?>/trabajos/12-big.jpg" title="Caditar" data-caption="<strong>Caditar</strong> ">
+          <a href="<?php echo IMAGE_PATH; ?>/trabajos/12-big.jpg" title="Caditar" data-caption="">
               <img src="<?php echo IMAGE_PATH; ?>/trabajos/caditar.jpg" alt="caditar" width="95%" />
           </a>
       </li>
