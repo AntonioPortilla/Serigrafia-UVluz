@@ -6,7 +6,7 @@
           <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/principal.jpg" alt="logo UVluz">
           <div class="container">
             <div class="carousel-caption">
-              <span class="descripcion">El valor de una idea radica <br>en el uso de la misma</span>
+              <span class="descripcion">Alta calidad para <br>tu servicio</span>
             </div>
           </div>
         </div>        

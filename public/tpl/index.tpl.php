@@ -6,7 +6,7 @@
           <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/principal.jpg" alt="logo UVluz">
           <div class="container">
             <div class="carousel-caption">
-              <span class="descripcion">El valor de una idea radica <br>en el uso de la misma</span>
+              <span class="descripcion">Alta calidad para <br>tu servicio</span>
             </div>
           </div>
         </div>
@@ -32,15 +32,15 @@
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 nosotros">
       <h3 class="nos">SERVICIOS</h3>      
         <ul>
-          <li>Ambientadores para Autos</li>
-          <li>Imantados publicitarios </li>
-          <li>Calendarios </li>
-          <li>Llaveros publicitarios</li>
-          <li>Exibidores</li>
-          <li>Jala vistas</li>
-          <li>Reglas Publicitarias</li>
+          <li>Artículos para Merchandising</li>
+          <li>Exhibidores </li>
+          <li> Jala vistas </li>
           <li>Stickers</li>
-          <li>Baris</li>
+          <li>Calendarios</li>
+          <li>Escarchados</li>
+          <li>Etiquetas</li>
+          <li>Llaveros Publicitarios</li>
+          <li>Aromatizador</li>
         </ul>     
       <a href="<?php echo APP_DOMAIN; ?>/servicios/" class="btn btn-primary btn-more">Ver más</a>
     </div>

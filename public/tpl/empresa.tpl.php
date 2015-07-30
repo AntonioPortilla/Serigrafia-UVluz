@@ -6,7 +6,7 @@
           <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/principal.jpg" alt="logo UVluz">
           <div class="container">
             <div class="carousel-caption">
-              <span class="descripcion">El valor de una idea radica <br>en el uso de la misma</span>
+              <span class="descripcion">Alta calidad para <br>tu servicio</span>
             </div>
           </div>
         </div> 
@@ -40,12 +40,12 @@
       <h2>Misión</h2><br>
       <p>  
         Posicionar las marcas de nuestros clientes hacia sus prospectos con el objetivo de convertirnos en 
-        fieles clientes mediante un estrategia de comunicación y visualización.
+        fieles clientes mediante una estrategia de comunicación y visualización.
       </p>
       <h2>Visión</h2>
       <p>
         Convertirnos en la más grande empresa de merchandising, reconocidos totalmente por nuestra 
-        calidad y buen servicios hacia nuestros clientes.
+        calidad y buen servicio hacia nuestros clientes.
       </p>      
     </div>
   </div>     
