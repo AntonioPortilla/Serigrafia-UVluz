@@ -1,16 +1,54 @@
 <div class="container">
   <div class="row">
-    <div id="contCarousel" class="carousel slide" data-ride="carousel">
+    <div id="indexCarousel" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#indexCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#indexCarousel" data-slide-to="1"></li>
+        <li data-target="#indexCarousel" data-slide-to="2"></li>
+        <li data-target="#indexCarousel" data-slide-to="3"></li>        
+      </ol>      
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/principal.jpg" alt="logo UVluz">
+          <img class="first-slide" src="<?php echo IMAGE_PATH; ?>/banner/banner1.jpg" alt="logo UVluz">
           <div class="container">
             <div class="carousel-caption">
               <span class="descripcion">Alta calidad para <br>tu servicio</span>
             </div>
           </div>
         </div>
-       </div>
+        <div class="item">
+          <img class="second-slide" src="<?php echo IMAGE_PATH; ?>/banner/banner2.jpg" alt="logo UVluz">
+          <div class="container">
+            <div class="carousel-caption">
+              <span class="descripcion">Alta calidad para <br>tu servicio</span>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="third-slide" src="<?php echo IMAGE_PATH; ?>/banner/banner3.jpg" alt="logo UVluz">
+          <div class="container">
+            <div class="carousel-caption">
+              <span class="descripcion">Alta calidad para <br>tu servicio</span>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/banner/banner4.jpg" alt="logo UVluz">
+          <div class="container">
+            <div class="carousel-caption">
+              <span class="descripcion">Alta calidad para <br>tu servicio</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#indexCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Atrás</span>
+      </a>
+      <a class="right carousel-control" href="#indexCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>      
   </div>
 </div>
