@@ -6,6 +6,7 @@
         <li data-target="#indexCarousel" data-slide-to="1"></li>
         <li data-target="#indexCarousel" data-slide-to="2"></li>
         <li data-target="#indexCarousel" data-slide-to="3"></li>        
+        <li data-target="#indexCarousel" data-slide-to="4"></li>        
       </ol>      
       <div class="carousel-inner" role="listbox">
         <div class="item active">
@@ -19,6 +20,9 @@
         </div>
         <div class="item">
           <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/banner/banner4.jpg" alt="logo UVluz">
+        </div>
+        <div class="item">
+          <img class="four-slide" src="<?php echo IMAGE_PATH; ?>/banner/banner5.jpg" alt="logo UVluz">
         </div>
       </div>
       <a class="left carousel-control" href="#indexCarousel" role="button" data-slide="prev">
