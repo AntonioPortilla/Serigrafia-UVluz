@@ -52,18 +52,18 @@
       <img src="<?php echo IMAGE_PATH; ?>/nosotros.jpg" alt="">
     </div>
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 nosotros">
-      <h3 class="nos">SERVICIOS</h3>      
+      <h3 class="nos">SERVICIOS</h3>
         <ul>
-          <li>Artículos para Merchandising</li>
-          <li>Exhibidores </li>
-          <li> Jala vistas </li>
-          <li>Stickers</li>
-          <li>Calendarios</li>
-          <li>Escarchados</li>
-          <li>Etiquetas</li>
-          <li>Llaveros Publicitarios</li>
-          <li>Aromatizador</li>
-        </ul>     
+          <li>PAD MOUSE</li>
+          <li>REGLAS</li>
+          <li>SEÑALETICAS</li>
+          <li>TERMOFORMADOS</li>
+          <li>PASA VUELTO</li>
+          <li>PALETA PORTA PRECIO</li>
+          <li>PIZARRAS</li>
+          <li>IMANTADOS</li>
+          <li>DISPLAY</li>
+        </ul>
       <a href="<?php echo APP_DOMAIN; ?>/servicios/" class="btn btn-primary btn-more">Ver más</a>
     </div>
   </div>

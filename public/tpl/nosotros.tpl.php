@@ -75,6 +75,20 @@
         </ul>
       </div>
       <div class="col-md-12">
+        <h3 class="nos" style="background: red">SERVICIOS PRINCIPALES</h3>
+        <ul>
+          <li>PAD MOUSE</li>
+          <li>REGLAS</li>
+          <li>SEÑALETICAS</li>
+          <li>TERMOFORMADOS</li>
+          <li>PASA VUELTO</li>
+          <li>PALETA PORTA PRECIO</li>
+          <li>PIZARRAS</li>
+          <li>IMANTADOS</li>
+          <li>DISPLAY</li>
+        </ul>
+      </div>
+      <div class="col-md-12">
         <br><br>
         <a class="btn btn-default btn-rojo" href="<?php echo APP_DOMAIN; ?>/trabajos/" role="button">Ver Productos</a>
         <br><br>      
