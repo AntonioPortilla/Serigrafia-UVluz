@@ -141,7 +141,7 @@
     </ul>    
   </section>
   <div class="row">
-    <a href="#" class="btn btn-rojo btn-fan">VISITAR FANPAGE</a>
+    <a href="https://www.facebook.com/AgenciaMayor/" class="btn btn-rojo btn-fan" target="_blank">VISITAR FANPAGE</a>
   </div>
 </div>
 
