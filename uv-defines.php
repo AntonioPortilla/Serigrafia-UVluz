@@ -3,7 +3,7 @@
 	//define('URL_PRIVATE', ROOT_PATH.'/dante/Serigrafia-UVluz');	
 	//define('APP_DOMAIN', 'http://localhost/dante/Serigrafia-UVluz');
 
-	define('URL_PRIVATE', ROOT_PATH.'/agencia_agenciamayor/public/portfolio/Serigrafia-UVluz');	
+	define('URL_PRIVATE', 'http://agenciamayor.com/portfolio/Serigrafia-UVluz');	
 	define('APP_DOMAIN', 'http://agenciamayor.com/portfolio/Serigrafia-UVluz');
 	define('TPL_PATH', URL_PRIVATE.'/public/tpl');
 	//define('PUBLIC_PATH', 'http://localhost/dante/Serigrafia-UVluz');
