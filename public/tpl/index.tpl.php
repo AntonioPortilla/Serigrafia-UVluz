@@ -76,7 +76,7 @@
   <div class="row">
     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
       <div class="elemento">
-        <a href="<?php echo APP_DOMAIN ?>/trabajos/" class="prod">
+        <a href="<?php echo APP_DOMAIN ?>/trabajos.php" class="prod">
           <img src="<?php echo IMAGE_PATH; ?>/aromatizador.jpg" alt="Aromatizador" width="95%" />
         </a>
       </div>
@@ -84,7 +84,7 @@
     </div>
     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
       <div class="elemento">
-        <a href="<?php echo APP_DOMAIN ?>/trabajos/" class="prod">
+        <a href="<?php echo APP_DOMAIN ?>/trabajos.php" class="prod">
           <img src="<?php echo IMAGE_PATH; ?>/jala.jpg" alt="jala vista" width="95%" />
         </a>
       </div>
@@ -92,7 +92,7 @@
     </div>
     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
       <div class="elemento">
-        <a href="<?php echo APP_DOMAIN ?>/trabajos/" class="prod">
+        <a href="<?php echo APP_DOMAIN ?>/trabajos.php" class="prod">
           <img src="<?php echo IMAGE_PATH; ?>/llavero.jpg" alt="llavero" width="95%" />
         </a>
       </div>
@@ -100,7 +100,7 @@
     </div>
     <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
       <div class="elemento">
-        <a href="<?php echo APP_DOMAIN ?>/trabajos/" class="prod">
+        <a href="<?php echo APP_DOMAIN ?>/trabajos.php" class="prod">
           <img src="<?php echo IMAGE_PATH; ?>/bitel.jpg" alt="bitel" width="95%" />
         </a>
       </div>

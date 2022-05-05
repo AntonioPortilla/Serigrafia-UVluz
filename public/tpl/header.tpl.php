@@ -29,7 +29,7 @@
                         <span class="icon-bar"></span>
                       </button>
                       <span class="logo navbar-brand">
-                        <a href="/">
+                        <a href="<?php echo APP_DOMAIN ?>/index.php">
                           <figure>
                             <img src="<?php echo IMAGE_PATH; ?>/logo.jpg" alt="UVluz" />
                           </figure>
@@ -39,16 +39,16 @@
                     <div id="navbar" class="navbar-collapse collapse">
                       <ul class="nav navbar-nav navbar-right fancyNav">
                         <li>
-                          <a href="<?php echo APP_DOMAIN ?>/empresa/">La Empresa</a>
+                          <a href="<?php echo APP_DOMAIN ?>/empresa.php">La Empresa</a>
                         </li>
                         <li>                          
-                          <a href="<?php echo APP_DOMAIN ?>/servicios/">Servicios</a>
+                          <a href="<?php echo APP_DOMAIN ?>/servicios.php">Servicios</a>
                         </li>
                         <li>                          
-                          <a href="<?php echo APP_DOMAIN ?>/trabajos/">Trabajos</a>
+                          <a href="<?php echo APP_DOMAIN ?>/trabajos.php">Trabajos</a>
                         </li>
                         <li style="border-right:initial">
-                          <a href="<?php echo APP_DOMAIN ?>/contacto/">Contacto</a>
+                          <a href="<?php echo APP_DOMAIN ?>/contacto.php">Contacto</a>
                         </li>
                       </ul>
                     </div>
